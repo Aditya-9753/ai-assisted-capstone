@@ -6,11 +6,11 @@ This repository is being prepared for an upcoming capstone project as part of an
 
 ## Current Status
 
-This repository currently contains the initial development setup and documentation.
+This repository currently contains the Phase 1 initial development setup, governance rules, and baseline documentation.
 
 ## Development Approach
 
-AI-assisted development tools such as Cursor or Claude Code will be used during the development process.
+AI-assisted development tools such as Cursor or Claude Code will be used during the development process to assist with planning, code generation, and iterative reviews.
 
 ## Repository Setup
 
